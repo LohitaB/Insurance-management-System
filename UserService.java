@@ -1,5 +1,5 @@
 package com.insurance.claimprocessing.service;
 
-public class FraudService {
+public class UserService {
     
 }
